@@ -71,7 +71,8 @@ Before creating the visuals, the dataset was cleaned to ensure accurate analysis
 ---
 
 ## Deliverables
-- Power BI File: <a helf="https://github.com/kalpesh2541/Online-Retail-Data-analysis/blob/main/RESULT%20(1).pbix"> File</a>  
+- Power BI File: <a href="https://github.com/kalpesh2541/Online-Retail-Data-analysis/blob/main/RESULT%20(1).pbix">Click Here</a> 
+
   
 
 ---

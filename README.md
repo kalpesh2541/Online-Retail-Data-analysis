@@ -27,7 +27,8 @@ Before creating the visuals, the dataset was cleaned to ensure accurate analysis
 - The highest seasonal demand occurred in Q4 (September–November), highlighting strong holiday-driven sales.
 - Revenue declined significantly in December ($0.3M), likely due to data capture timing or reduced post-holiday demand.
 - Insight: Clear seasonality exists, with sales momentum building toward the yearend holiday season. This trend can be leveraged for forecasting and future promotional campaigns.
-
+  
+---
 
 ### **Question 2: Top 10 Countries by Revenue (Excluding UK)**
 - **Objective:** CMO wanted to view the **top 10 revenue-generating countries**, along with quantities sold.  
@@ -35,7 +36,16 @@ Before creating the visuals, the dataset was cleaned to ensure accurate analysis
 - **Note:** United Kingdom was excluded to highlight international performance.  
 - **Insight:** Provides a clear view of the most profitable global markets.
 
----
+---<img width="1290" height="727" alt="Answer 2" src="https://github.com/user-attachments/assets/213caae2-54ee-4a2e-ab87-d69bfd637c2e" />
+## **Answer 2**
+-The top-performing countries were:
+  o Netherlands: $0.28M
+  o EIRE (Ireland): $0.26M
+  o Germany: $0.22M
+  o France: $0.20M
+  o Australia: $0.20M
+- These markets also showed strong demand in terms of quantities sold, not just revenue.
+- Insight: Western Europe and Australia present solid, consistent markets outside the UK, with potential for targeted marketing and expansion strategies.
 
 ### **Question 3: Top 10 Customers by Revenue**
 - **Objective:** CMO wanted to identify high-value customers.  

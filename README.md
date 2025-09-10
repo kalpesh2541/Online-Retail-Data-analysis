@@ -38,12 +38,7 @@ Before creating the visuals, the dataset was cleaned to ensure accurate analysis
 
 <img width="1290" height="727" alt="Answer 2" src="https://github.com/user-attachments/assets/213caae2-54ee-4a2e-ab87-d69bfd637c2e" />
 ## **Answer 2**
--The top-performing countries were:
-  --Netherlands: $0.28M
-  -- EIRE (Ireland): $0.26M
-  -- Germany: $0.22M
-  -- France: $0.20M
-  -- Australia: $0.20M
+-The top-performing countries were: Netherlands: $0.28M, EIRE (Ireland): $0.26M, Germany: $0.22M France: $0.20M, Australia: $0.20M
 - These markets also showed strong demand in terms of quantities sold, not just revenue.
 - Insight: Western Europe and Australia present solid, consistent markets outside the UK, with potential for targeted marketing and expansion strategies.
 

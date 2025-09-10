@@ -38,24 +38,32 @@ Before creating the visuals, the dataset was cleaned to ensure accurate analysis
 
 ---<img width="1290" height="727" alt="Answer 2" src="https://github.com/user-attachments/assets/213caae2-54ee-4a2e-ab87-d69bfd637c2e" />
 ## **Answer 2**
--The top-performing countries were: Netherlands: $0.28M, EIRE (Ireland): $0.26M, Germany: $0.22M France: $0.20M, Australia: $0.20M
+- The top-performing countries were: Netherlands: $0.28M, EIRE (Ireland): $0.26M, Germany: $0.22M France: $0.20M, Australia: $0.20M
 - These markets also showed strong demand in terms of quantities sold, not just revenue.
 - Insight: Western Europe and Australia present solid, consistent markets outside the UK, with potential for targeted marketing and expansion strategies.
-
+---
 ### **Question 3: Top 10 Customers by Revenue**
 - **Objective:** CMO wanted to identify high-value customers.  
 - **Visual:** A descending bar chart with the top 10 customers ranked by revenue.  
 - **Insight:** Allows the company to target and retain its most valuable customers.
 
+---<img width="1290" height="731" alt="Answer 3" src="https://github.com/user-attachments/assets/a867194c-6a5d-4254-b414-294a4569b886" />
+## **Answer 3**
+- The highest-revenue customer generated $0.28M, followed closely by others contributing between $0.26M and $0.06M.
+- Customer IDs 14646, 18102, and 17450 were the top three, accounting for the largest revenue shares.
+- Insight: A small group of customers significantly contributes to revenue. This concentration underscores the need for relationship management and retention programs targeting high-value customers.
 ---
-
 ### **Question 4: Product Demand by Country (Excluding UK)**
 - **Objective:** CEO wanted to evaluate product demand across all countries to identify expansion opportunities.  
 - **Visual:** A map or heatmap visualization showing **demand intensity by country**, excluding the UK.  
 - **Insight:** Provides a global view of demand, highlighting regions with potential for growth.
 
+---<img width="1295" height="728" alt="Answer 4" src="https://github.com/user-attachments/assets/4134e531-e64d-4559-84d6-17558f3a7793" />
+## **Answer 4**
+- A map visualization revealed that Europe is the strongest non-UK market, with notable contributions from the Netherlands, Germany, and France.
+- Demand hotspots also exist in Australia, Asia (Japan), and North America, though at comparatively smaller scales.
+- Insight: The CEO can use these findings to prioritize regional expansion strategies, especially in Europe and Australia, while exploring potential growth in Asia and North America.
 ---
-
 ## Tools Used
 - **Power BI** or **Tableau** (Free trial versions available)  
 - Data cleaning and transformation using built-in features  
@@ -63,8 +71,8 @@ Before creating the visuals, the dataset was cleaned to ensure accurate analysis
 ---
 
 ## Deliverables
-- Power BI File: `Online_Retail_Analysis.pbix`  
-- Tableau File: `Online_Retail_Analysis.twbx`  
+- Power BI File: ``  
+  
 
 ---
 

@@ -21,7 +21,7 @@ Before creating the visuals, the dataset was cleaned to ensure accurate analysis
 - **Visual:** A time series line chart displaying **monthly revenue** for 2011.  
 - **Insight:** Helps identify seasonal patterns and supports forecasting for the upcoming year.
 
-<img width="1290" height="729" alt="Answer 1" src="https://github.com/user-attachments/assets/e268f2e3-3ded-416b-ba74-c128c4c0923b" />
+---<img width="1290" height="729" alt="Answer 1" src="https://github.com/user-attachments/assets/e268f2e3-3ded-416b-ba74-c128c4c0923b" />
 ## **Answer 1**
 - Monthly revenue fluctuated throughout 2011, starting at $0.56M in January and peaking at $1.46M in November.
 - The highest seasonal demand occurred in Q4 (September–November), highlighting strong holiday-driven sales.
@@ -36,7 +36,7 @@ Before creating the visuals, the dataset was cleaned to ensure accurate analysis
 - **Note:** United Kingdom was excluded to highlight international performance.  
 - **Insight:** Provides a clear view of the most profitable global markets.
 
-<img width="1290" height="727" alt="Answer 2" src="https://github.com/user-attachments/assets/213caae2-54ee-4a2e-ab87-d69bfd637c2e" />
+---<img width="1290" height="727" alt="Answer 2" src="https://github.com/user-attachments/assets/213caae2-54ee-4a2e-ab87-d69bfd637c2e" />
 ## **Answer 2**
 -The top-performing countries were: Netherlands: $0.28M, EIRE (Ireland): $0.26M, Germany: $0.22M France: $0.20M, Australia: $0.20M
 - These markets also showed strong demand in terms of quantities sold, not just revenue.
